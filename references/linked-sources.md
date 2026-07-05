@@ -12,7 +12,8 @@
 5. [防蓝光与数码眼疲劳](#5-防蓝光与数码眼疲劳)
 6. [镜片材料与膜层](#6-镜片材料与膜层)
 7. [蔡司定制片辨别与线上购买](#7-蔡司定制片辨别与线上购买)
-8. [给 skill 的可执行结论](#8-给-skill-的可执行结论)
+8. [品牌产品与新品核验入口](#8-品牌产品与新品核验入口)
+9. [给 skill 的可执行结论](#9-给-skill-的可执行结论)
 
 ## 1. 使用说明
 
@@ -202,7 +203,25 @@
 - 只在用户明确要买蔡司定制片、担心真假或掉包时再展开
 - 平时不把防伪识别写进主流程
 
-## 8. 给 skill 的可执行结论
+## 8. 品牌产品与新品核验入口
+
+### 官方入口
+
+- ZEISS Vision Care 镜片总览：<https://www.zeiss.com/vision-care/en/eye-care-professionals/lenses.html>
+- ZEISS ClearMind：<https://www.zeiss.com/vision-care/en/eye-care-professionals/lenses/lenses-for-every-need/lenses-for-increased-well-being.html>
+- HOYA Vision Care 产品总览：<https://www.hoyavision.com/vision-products/>
+- HOYA MiYOSMART iQ：<https://www.hoyavision.com/vision-products/myopia-management/miyosmart-iq/>
+- Transitions GEN S：<https://www.transitions.com/en-us/products/transitions-gen-s/>
+- Rodenstock 镜片总览：<https://www.rodenstock.com/com/en/lenses.html>
+
+### skill 应如何使用
+
+- 用户问“最新款/今年新款/某系列是否还在卖”时，先查官方入口。
+- 如果官方页面按国家跳转或地区不可见，要说明“当地上市名和供应状态需确认”。
+- 官方新品不自动进入推荐；仍要先过数据可信度、镜框、折射率、档位闸门。
+- 儿童近视管理产品只用于儿童防控/专项验配场景，不进入成人普通单光默认推荐。
+
+## 9. 给 skill 的可执行结论
 
 这些是从外链体系中，最值得沉淀进 skill 的部分：
 
