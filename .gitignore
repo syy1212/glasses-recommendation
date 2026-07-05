@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+
+# Editor and local environment
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build and package artifacts
+dist/
+*.zip
+*.tar.gz
+
+# Python cache created by local validation tools
+__pycache__/
+*.py[cod]

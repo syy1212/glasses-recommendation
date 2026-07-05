@@ -1,0 +1,7 @@
+interface:
+  display_name: "配镜推荐"
+  short_description: "根据验光数据审查、镜框约束和镜片档位生成实用配镜建议"
+  default_prompt: "使用 $glasses-recommendation 审查我的验光数据，推导实用的镜框参数，并给出镜片建议。"
+
+policy:
+  allow_implicit_invocation: true
